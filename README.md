@@ -8,7 +8,7 @@ For this, you can use any library that you want to help (e.g. Lodash, Axios, etc
 ### Requisites
 * Create an app that displays all the info of the users.json file (it can be found on the root directory of this repository).
 
-* The users should only be fetched once when the app starts. After that, we are working with users from *memory*, **but we need to take care that real backend can be easily added later**. The users list should be an Angular component and every row needs to have 3 actions:
+* The users should only be fetched once when the app starts. After that, we are working with users from *memory*, **but we need to take care that real backend can be easily added later**. The users list should be a React component and every row needs to have 3 actions:
 	- Show – button that shows the user details in **another route**;
 	- Delete – button that removes the user from the list;
 	- Select – checkbox that selects its users.
