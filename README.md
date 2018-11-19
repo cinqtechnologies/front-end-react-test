@@ -12,7 +12,8 @@ For this, you can use any library that you want to help (e.g. Lodash, Axios, etc
 	- Show – button that shows the user details in **another route**;
 	- Delete – button that removes the user from the list;
 	- Select – checkbox that selects its users.
-TIP: work with a state manager here!
+
+  TIP: work with a state manager here!
 
 * On the top of the list, place a button that removes the selected items from the list. The button are disabled while nothing is selected. Display the number of selected items;
 
